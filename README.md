@@ -31,5 +31,7 @@ navigate to the project folder in GitBash/Terminal.
 
 
 ## Resources
+
+- This project uses Federal Reserve Meeting Minutes from 2018 to 2022 which can be found in the below links.
 - https://www.federalreserve.gov/monetarypolicy/fomc_historical_year.htm
 - https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
